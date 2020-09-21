@@ -14,4 +14,8 @@ public static void main(String args[]){
 	double d=t/n;
 	System.out.println("total"+t);
 	System.out.println("average"+d);
-	
+
+
+
+}}
+
